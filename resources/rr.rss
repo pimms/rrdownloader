@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:nrk="http://podkast.nrk.no/podd-rss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <nrk:url>https://podkast.nrk.no/program/radioresepsjonen.rss</nrk:url>
+    <atom:link href="https://podkast.nrk.no/program/radioresepsjonen.rss" rel="self" type="application/rss+xml"/>
+    <title>Radioresepsjonen</title>
+    <description>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+    <itunes:summary>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+    <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+    <nrk:urlTitle>Radioresepsjonen</nrk:urlTitle>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://gfx.nrk.no/YUaJcOsN9qEw0OXxXzIIxQHNrJ6VuMKRhbi8iIzYBT8w.jpg"/>
+    <image>
+      <title>Radioresepsjonen</title>
+      <url>https://gfx.nrk.no/YUaJcOsN9qEw0OXxXzIIxQHNrJ6VuMKRhbi8iIzYBT8w.jpg</url>
+      <link>https://radio.nrk.no/serie/radioresepsjonen</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <link>https://radio.nrk.no/serie/radioresepsjonen</link>
+    <language>no</language>
+    <copyright>NRK © 2018</copyright>
+    <itunes:author>NRK</itunes:author>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+      <itunes:email>nrkpodkast@nrk.no</itunes:email>
+    </itunes:owner>
+    <category>Comedy</category>
+    <item>
+      <title>01.03.2018 Radioresepsjonen</title>
+      <description>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-133532-02.03.2018+11%3a32%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-03-02_1132_188.MP3" length="108595954" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Mar 2018 11:32:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+      <itunes:duration>01:15:24</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>28.02.2018 Radioresepsjonen </title>
+      <description>Siste 24, Bjarte fyller stikket: Suging av tilhengerfeste, Aktualitetsmagasinet og 30 spørsmål v/Tore</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-132485-28.02.2018+13%3a49%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-28_1349_1694.MP3" length="110816572" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Feb 2018 13:49:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Bjarte fyller stikket: Suging av tilhengerfeste, Aktualitetsmagasinet og 30 spørsmål v/Tore</itunes:summary>
+      <itunes:duration>01:16:57</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>27.02.2018 Radioresepsjonen</title>
+      <description>I dag handler det blant annet om dette; hvem er Donnie? Norges nye lover og veien videre.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-132460-27.02.2018+13%3a05%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-27_1305_3011.MP3" length="105631788" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Feb 2018 13:05:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>I dag handler det blant annet om dette; hvem er Donnie? Norges nye lover og veien videre.</itunes:summary>
+      <itunes:duration>01:13:21</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>26.02.2018 Radioresepsjonen</title>
+      <description>Stikkord: siste 24, RR-lekene, post og kontrafaktisk.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131434-26.02.2018+13%3a55%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-26_1355_4028.MP3" length="114833995" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Feb 2018 13:55:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Stikkord: siste 24, RR-lekene, post og kontrafaktisk.</itunes:summary>
+      <itunes:duration>01:19:44</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>22.02.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det, Dilemmas, Veien videre  og Stavmixer.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131381-22.02.2018+12%3a26%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-22_1226_158.MP3" length="103615553" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Feb 2018 12:26:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det, Dilemmas, Veien videre  og Stavmixer.</itunes:summary>
+      <itunes:duration>01:11:57</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>21.02.2018 Radioresepsjonen </title>
+      <description>Siste 24, Tore fyller stikket, Aktualitetsmagasinet og RR 30 spørsmål v/Bjarte</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131350-21.02.2018+13%3a14%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-21_1314_3451.MP3" length="114629613" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Feb 2018 13:14:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Tore fyller stikket, Aktualitetsmagasinet og RR 30 spørsmål v/Bjarte</itunes:summary>
+      <itunes:duration>01:19:36</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>20.02.2018 Radioresepsjonen </title>
+      <description>Siste 24, Dear daybook, Norges nye lover og Radiorulett</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131322-20.02.2018+13%3a17%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-20_1317_943.MP3" length="108169009" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Feb 2018 13:17:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Dear daybook, Norges nye lover og Radiorulett</itunes:summary>
+      <itunes:duration>01:15:06</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>19.02.2018 Radioresepsjonen </title>
+      <description>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131295-19.02.2018+12%3a38%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-19_1238_2660.MP3" length="109081205" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Feb 2018 12:38:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</itunes:summary>
+      <itunes:duration>01:15:44</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>15.02.2018 Radioresepsjonen </title>
+      <description>Siste 24.  Hva er Hva Koster Det? Dilemmas. Stavmixer.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131226-15.02.2018+13%3a00%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-15_1300_2894.MP3" length="111615292" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Feb 2018 13:00:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24.  Hva er Hva Koster Det? Dilemmas. Stavmixer.</itunes:summary>
+      <itunes:duration>01:17:30</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>14.02.2018 Radioresepsjonen  </title>
+      <description>Siste 24, Bjarte fyller stikket, Aktualitetsmagasinet og 30 spørsmål v/Steinar</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131198-14.02.2018+13%3a44%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-14_1344_2345.MP3" length="111548836" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Feb 2018 13:44:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Bjarte fyller stikket, Aktualitetsmagasinet og 30 spørsmål v/Steinar</itunes:summary>
+      <itunes:duration>01:17:27</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>13.02.2018 Radioresepsjonen </title>
+      <description>Siste 24, Bjørn Eidsnes jobber i Norwegian, Norges Nye Lover og Radiorulett</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131173-13.02.2018+12%3a46%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-13_1246_135.MP3" length="106030521" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Feb 2018 12:46:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Bjørn Eidsnes jobber i Norwegian, Norges Nye Lover og Radiorulett</itunes:summary>
+      <itunes:duration>01:13:37</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>12.02.2018 Radioresepsjonen</title>
+      <description>Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131150-12.02.2018+13%3a07%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-12_1307_1864.MP3" length="108795948" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Feb 2018 13:07:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+      <itunes:duration>01:15:33</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>08.02.2018 Radioresepsjonen </title>
+      <description>Siste 24, Hva Koster Det? v/Bjarte, Dilemmas og Stavmixer</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131092-08.02.2018+13%3a58%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-08_1358_1644.MP3" length="105616741" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Feb 2018 13:58:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Hva Koster Det? v/Bjarte, Dilemmas og Stavmixer</itunes:summary>
+      <itunes:duration>01:13:20</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>07.02.2018 Radioresepsjonen </title>
+      <description>Siste 24, Steinar fyller stikket, Aktualitetsmagasinet og 30 Spørsmål v/Tore</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131071-07.02.2018+14%3a18%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-07_1418_3658.MP3" length="111120010" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Feb 2018 14:18:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Steinar fyller stikket, Aktualitetsmagasinet og 30 Spørsmål v/Tore</itunes:summary>
+      <itunes:duration>01:17:09</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>06.02.2018 Radioresepsjonen</title>
+      <description>Siste 24, Norges Nye Lover, Radiorulett v/Steinar. Hvem er Donnie og hvorfor er Bjarte borte?</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131045-06.02.2018+15%3a13%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-06_1513_1659.MP3" length="102666994" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Feb 2018 15:13:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore.</itunes:subtitle>
+      <itunes:summary>Siste 24, Norges Nye Lover, Radiorulett v/Steinar. Hvem er Donnie og hvorfor er Bjarte borte?</itunes:summary>
+      <itunes:duration>01:11:17</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>05.02.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-131022-05.02.2018+14%3a55%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-05_1455_1256.MP3" length="113680428" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Feb 2018 14:55:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen</itunes:summary>
+      <itunes:duration>01:18:56</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>01.02.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det, Dilemmas og Stavmixer.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-130962-01.02.2018+12%3a21%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-02-01_1221_3688.MP3" length="106338975" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Feb 2018 12:21:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det, Dilemmas og Stavmixer.</itunes:summary>
+      <itunes:duration>01:13:50</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>31.01.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Bjarte fyller stikket, Aktualitetsmagasinet
+og 30 spørsmål.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-130933-31.01.2018+12%3a41%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-31_1241_1425.MP3" length="105587275" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Jan 2018 12:41:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Bjarte fyller stikket, Aktualitetsmagasinet
+og 30 spørsmål.</itunes:summary>
+      <itunes:duration>01:13:19</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>30.01.2018 Radioresepsjonen</title>
+      <description>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-130929-31.01.2018+11%3a53%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-31_1153_3853.MP3" length="102532203" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Jan 2018 11:53:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+      <itunes:summary>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+      <itunes:duration>01:11:12</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>29.01.2018 Radioresepsjonen</title>
+      <description>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129891-29.01.2018+13%3a58%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-29_1358_2453.MP3" length="109551409" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jan 2018 13:58:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</itunes:summary>
+      <itunes:duration>01:16:04</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>25.01.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det?, Dilemmas og Stavmixer.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129792-25.01.2018+13%3a00%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-25_1300_3903.MP3" length="105980993" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jan 2018 13:00:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det?, Dilemmas og Stavmixer.</itunes:summary>
+      <itunes:duration>01:13:35</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>24.01.2018  Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Tore fyller stikket, Aktualitetsmagasinet og
+30 spørsmål.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129777-24.01.2018+13%3a26%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-24_1326_622.MP3" length="109938857" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Jan 2018 13:26:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Tore fyller stikket, Aktualitetsmagasinet og
+30 spørsmål.</itunes:summary>
+      <itunes:duration>01:16:20</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>23.01.2018 Radioresepsjonen</title>
+      <description>Siste 24. Hvem er Tore Davidson Hurt?  Norges Nye Lover. Radiorulett.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129736-23.01.2018+13%3a47%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-23_1347_1449.MP3" length="105305780" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jan 2018 13:47:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24. Hvem er Tore Davidson Hurt?  Norges Nye Lover. Radiorulett.</itunes:summary>
+      <itunes:duration>01:13:07</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>22.01.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med: Siste 24, RR-lekene, Postkasse og
+Kontrafaktisk.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129707-22.01.2018+13%3a22%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-22_1322_1414.MP3" length="110591501" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jan 2018 13:22:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med: Siste 24, RR-lekene, Postkasse og
+Kontrafaktisk.</itunes:summary>
+      <itunes:duration>01:16:47</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>18.01.2018 Radioresepsjonen </title>
+      <description>Siste 24, Hva Koster Det?, Dilemmas og Stavmixer v/Bjarte</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129634-18.01.2018+12%3a30%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-18_1230_3267.MP3" length="104598593" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jan 2018 12:30:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Hva Koster Det?, Dilemmas og Stavmixer v/Bjarte</itunes:summary>
+      <itunes:duration>01:12:38</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>17.01.2018 Radioresepsjonen</title>
+      <description>Siste 24, Dagen i dag, Aktualitetsmagasinet og 30 Spørsmål v/ Tore</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129617-17.01.2018+13%3a19%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-17_1319_3920.MP3" length="107969643" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jan 2018 13:19:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Dagen i dag, Aktualitetsmagasinet og 30 Spørsmål v/ Tore</itunes:summary>
+      <itunes:duration>01:14:58</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>16.01.2018  Radioresepsjonen - podkast</title>
+      <description>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129588-16.01.2018+13%3a18%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-16_1318_494.MP3" length="108802844" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jan 2018 13:18:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+      <itunes:summary>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+      <itunes:duration>01:15:33</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>15.01.2018  Radioresepsjonen - podkast</title>
+      <description>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129558-15.01.2018+13%3a16%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-15_1316_1020.MP3" length="109985251" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jan 2018 13:16:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+      <itunes:summary>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+      <itunes:duration>01:16:22</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>11.01.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det?, Dilemmas, Stavmikser ++</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129481-11.01.2018+12%3a00%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-11_1200_2355.MP3" length="106874381" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jan 2018 12:00:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Hva koster det?, Dilemmas, Stavmikser ++</itunes:summary>
+      <itunes:duration>01:14:13</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>10.01.2018 Radioresepsjonen</title>
+      <description>Siste 24. Terror eller tomsing. Aktualitetsmagasinet, Veien videre.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129463-10.01.2018+14%3a02%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-10_1402_3224.MP3" length="109513166" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jan 2018 14:02:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24. Terror eller tomsing. Aktualitetsmagasinet, Veien videre.</itunes:summary>
+      <itunes:duration>01:16:02</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>09.01.2018  Radioresepsjonen</title>
+      <description>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129430-09.01.2018+13%3a00%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-09_1300_445.MP3" length="106567181" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jan 2018 13:00:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+      <itunes:summary>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+      <itunes:duration>01:14:00</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>08.01.2018 Radioresepsjonen </title>
+      <description>Siste 24, Postkasse og Kontrafaktisk</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129413-08.01.2018+12%3a30%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-08_1230_4195.MP3" length="112901143" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2018 12:30:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Postkasse og Kontrafaktisk</itunes:summary>
+      <itunes:duration>01:18:24</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>04.01.2018 Radioresepsjonen</title>
+      <description>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129364-04.01.2018+12%3a00%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-04_1200_2430.MP3" length="111146968" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jan 2018 12:00:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+      <itunes:summary>Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</itunes:summary>
+      <itunes:duration>01:17:11</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>03.01.2018 Radioresepsjonen </title>
+      <description>Siste 24, Aktualitetsmagasinet og 30 Spørsmål</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129343-03.01.2018+13%3a43%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-03_1343_1225.MP3" length="111069855" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jan 2018 13:43:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Aktualitetsmagasinet og 30 Spørsmål</itunes:summary>
+      <itunes:duration>01:17:07</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>02.01.2018 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Norges nye lover og Veien videre.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129323-02.01.2018+13%3a00%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2018-01-02_1300_3592.MP3" length="108480598" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jan 2018 13:00:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Norges nye lover og Veien videre.</itunes:summary>
+      <itunes:duration>01:15:19</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>21.12.2017 Radioresepsjonen</title>
+      <description>Siste 24, Hva Koster Det? Dilemmas og Stavmikser</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129261-21.12.2017+14%3a21%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-21_1421_3578.MP3" length="112226557" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Dec 2017 14:21:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Hva Koster Det? Dilemmas og Stavmikser</itunes:summary>
+      <itunes:duration>01:17:56</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>20.12.2017 Radioresepsjonen</title>
+      <description>Siste 24. Aktualitetsmagasinet. 30 spørsmål.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129222-20.12.2017+14%3a35%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-20_1435_220.MP3" length="108293770" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Dec 2017 14:35:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24. Aktualitetsmagasinet. 30 spørsmål.</itunes:summary>
+      <itunes:duration>01:15:12</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>19.12.2017 Radioresepsjonen</title>
+      <description>Siste 24. Radiorulett. Norges Nye Lover. Fleipolini eller Faktorama.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129191-19.12.2017+13%3a23%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-19_1323_1737.MP3" length="112951925" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Dec 2017 13:23:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24. Radiorulett. Norges Nye Lover. Fleipolini eller Faktorama.</itunes:summary>
+      <itunes:duration>01:18:26</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>18.12.2017 Radioresepsjonen </title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Postkasse, RR-lekene
+ og Kontrafaktisk.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129168-18.12.2017+14%3a41%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-18_1441_2846.MP3" length="108783409" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Dec 2017 14:41:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Postkasse, RR-lekene
+ og Kontrafaktisk.</itunes:summary>
+      <itunes:duration>01:15:32</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>14.12.2017 Radioresepsjonen </title>
+      <description>Siste 24, Hva Koster Det? Dilemmas og Stavmikser</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129104-14.12.2017+12%3a30%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-14_1230_550.MP3" length="105115817" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Dec 2017 12:30:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Hva Koster Det? Dilemmas og Stavmikser</itunes:summary>
+      <itunes:duration>01:12:59</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>13.12.2017 Radioresepsjonen </title>
+      <description>Hør sendingene her http://radio.nrk.no/serie/radioresepsjonen/</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129090-13.12.2017+14%3a12%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-13_1412_2224.MP3" length="106904474" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Dec 2017 14:12:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+      <itunes:summary>Hør sendingene her http://radio.nrk.no/serie/radioresepsjonen/</itunes:summary>
+      <itunes:duration>01:14:14</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>12.12.2017 Radioresepsjonen</title>
+      <description>Siste 24, Radiorulett v/Tore, Norges Nye Lover og Dagen i dag</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129070-12.12.2017+14%3a26%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-12_1426_3240.MP3" length="104714577" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Dec 2017 14:26:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, Radiorulett v/Tore, Norges Nye Lover og Dagen i dag</itunes:summary>
+      <itunes:duration>01:12:43</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>11.12.2017 Radioresepsjonen</title>
+      <description>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-129039-11.12.2017+13%3a02%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-11_1302_2638.MP3" length="105430541" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Dec 2017 13:02:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</itunes:summary>
+      <itunes:duration>01:13:12</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>07.12.2017  Radioresepsjonens podkast</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte. Hør sendingene her http://radio.nrk.no/serie/radioresepsjonen/</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128976-07.12.2017+12%3a00%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-07_1200_1644.MP3" length="106666237" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Dec 2017 12:00:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte. Hør sendingene her http://radio.nrk.no/serie/radioresepsjonen/</itunes:summary>
+      <itunes:duration>01:14:04</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>06.12.2017 Radioresepsjonen </title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Aktualitetsmagasinet, Veien videre og
+30 spørsmål.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128963-06.12.2017+17%3a09%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-06_1709_2967.MP3" length="109468026" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Dec 2017 17:09:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Aktualitetsmagasinet, Veien videre og
+30 spørsmål.</itunes:summary>
+      <itunes:duration>01:16:01</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>05.12.2017 Radioresepsjonen</title>
+      <description>Siste 24. Norges lover. Radiorulett.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128921-05.12.2017+14%3a20%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-05_1420_2456.MP3" length="109453607" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Dec 2017 14:20:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24. Norges lover. Radiorulett.</itunes:summary>
+      <itunes:duration>01:16:00</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>04.12.2017 Radioresepsjonen </title>
+      <description>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128884-04.12.2017+12%3a35%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-12-04_1235_2796.MP3" length="108947667" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Dec 2017 12:35:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24, RR-lekene, Postkasse og Kontrafaktisk</itunes:summary>
+      <itunes:duration>01:15:39</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>30.11.2017 Radioresepsjonen</title>
+      <description>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Dilemmas, Stavmixer og  Hva koster det.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128813-30.11.2017+13%3a55%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-11-30_1355_3707.MP3" length="101778622" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Nov 2017 13:55:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Radioresepsjonen med Steinar, Tore og Bjarte med Siste 24, Dilemmas, Stavmixer og  Hva koster det.</itunes:summary>
+      <itunes:duration>01:10:40</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>29.11.2017 Radioresepsjonen</title>
+      <description>Siste 24. Hva er "Fyller Stikket"? Aktualitetsmagasinet. 30 Spørsmål.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128784-29.11.2017+14%3a26%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-11-29_1426_1385.MP3" length="107547713" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Nov 2017 14:26:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Siste 24. Hva er "Fyller Stikket"? Aktualitetsmagasinet. 30 Spørsmål.</itunes:summary>
+      <itunes:duration>01:14:41</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>28.11.2017. Radioresepsjonen </title>
+      <description>Med blant annet Siste 24, Daniel Raniel ringer Bjarte om #metoo, Nye Norges Lover og Radiorulett</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128756-28.11.2017+13%3a12%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-11-28_1312_2926.MP3" length="110889923" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Nov 2017 13:12:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Med blant annet Siste 24, Daniel Raniel ringer Bjarte om #metoo, Nye Norges Lover og Radiorulett</itunes:summary>
+      <itunes:duration>01:17:00</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>27.11.2017 Radioresepsjonen</title>
+      <description>Tilbake!! Med kontrafaktisk, postkasse og sist 24.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-128724-27.11.2017+13%3a26%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-11-27_1326_3059.MP3" length="111878606" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Nov 2017 13:26:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>Tilbake!! Med kontrafaktisk, postkasse og sist 24.</itunes:summary>
+      <itunes:duration>01:17:41</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+    <item>
+      <title>02.01.2017 Radioresepsjonen</title>
+      <description>.</description>
+      <guid isPermaLink="false">nrk.no-poddkast-10908-112962-02.01.2017+16%3a24%3a00</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radioresepsjonen/radioresepsjonen_2017-01-02_1624_4135.MP3" length="58254443" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Jan 2017 16:24:00 GMT</pubDate>
+      <itunes:author>NRK</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>Radioresepsjonen med Steinar, Tore og Bjarte</itunes:subtitle>
+      <itunes:summary>.</itunes:summary>
+      <itunes:duration>01:00:40</itunes:duration>
+      <itunes:keywords>NRK, Radioresepsjonen</itunes:keywords>
+    </item>
+  </channel>
+</rss>
